@@ -42,4 +42,4 @@ Following these steps will give you some structure on where to go when an error 
 
 ## How to search Google for solutions to your errors
 
-Google is a developers best friend. There are many resources that can be found through google to help you find solutions to your code. However, it is important to learn when a resource is relevant or not. This section will help you make that distinction.
+Google is a developers best friend. There are many resources that can be found through Google to help you find solutions to your code. However, it is important to learn when a resource is relevant or not. This section will help you make that distinction.

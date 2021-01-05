@@ -22,3 +22,24 @@ This is your developer console! From here you will be able to read your errors a
 
 ## How to read errors in your developer console
 
+Errors in your code may come in many forms. Most often, errors in your code will display an error message in your developer console. These error messages are extremely useful, as they contain what the error is, and where the error is taking place.
+
+Image here
+
+Understanding how to read an error message like the one above is the first step in being able to resolve it. Knowing the information of what the error is gives you direction in what you can search for to find a solution, and knowing where the error is allows you to see the code that isn't functioning properly.
+
+## Steps to solving errors in your code
+
+When you have an error in your code, it can be easy to get frustrated and not know where to go with it. Follow these steps to get you started.
+
+1. Check for typos in your code based on where the error message says the error is. Typos are a VERY common error
+2. Check for extra or missing parenthesis or brackets ((), [], or {}). When new to functions, objects, and arrays, it can be easy to forget a bracket or add an extra one
+3. Reference lecture material from that day (lecture slides, lecture notes, lecture video), and see if you missed something
+4. Google the error found in the error message
+5. Use the Q
+
+Following these steps will give you some structure on where to go when an error comes up.
+
+## How to search Google for solutions to your errors
+
+Google is a developers best friend. There are many resources that can be found through google to help you find solutions to your code. However, it is important to learn when a resource is relevant or not. This section will help you make that distinction.

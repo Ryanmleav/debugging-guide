@@ -1,6 +1,6 @@
 # Debugging Helper
 
-Welcome to the debugging helper! As you are new to coding and debugging, this repository is meant to give you a headstart on how to resolve errors in your code. This is extremely important, as being able to solve bugs in your code is a very common task for developers of any level. In this repository you will find:
+Welcome to the debugging helper! As you are new to coding and debugging, this repository is meant to give you a head start on how to resolve errors in your code. This is extremely important, as being able to solve bugs in your code is a very common task for developers of any level. In this repository you will find:
 
 * How to find your developer console
 * How to read errors in your developer console
@@ -14,7 +14,7 @@ Many browsers contain a developer console that will allow you to see the result 
 
 Image here
 
-Your developer tools will now be open. There are many tools to learn from, and we will dive into some more of them during Unit 7. Find the tab that says console, and click it.
+Your developer tools will now be open. There are many tools to work with, and we will dive into some more of them during Unit 7. Find the tab that says console, and click it.
 
 Image here
 

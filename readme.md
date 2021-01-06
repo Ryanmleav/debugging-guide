@@ -12,11 +12,11 @@ Welcome to the debugging helper! As you are new to coding and debugging, this re
 
 Many browsers contain a developer console that will allow you to see the result of console.logs, as well as see errors and warnings in your code. While at DevMountain, it's recommended that you use Google Chrome, as it has a wide variety of developer tools that are simple and easy to use. To find your developer console, right click in your web browsers viewport and click the 'inspect' button. You can also use the hotkeys: command + option + j for Mac, control + shift + j for Windows and Linux.
 
-Image here
+![find-console](assets/find-console.png)
 
 Your developer tools will now be open. There are many tools to work with, and we will dive into some more of them during Unit 7. Find the tab that says console, and click it.
 
-Image here
+![find-console-2](assets/find-console-2.png)
 
 This is your developer console! From here you will be able to read your errors and work towards resolving them.
 
@@ -24,7 +24,7 @@ This is your developer console! From here you will be able to read your errors a
 
 Errors in your code may come in many forms. Most often, errors in your code will display an error message in your developer console. These error messages are extremely useful, as they contain what the error is, and where the error is taking place.
 
-Image here
+![error-readability](assets/error-readability.png)
 
 Understanding how to read an error message like the one above is the first step in being able to resolve it. Knowing the information of what the error is gives you direction in what you can search for to find a solution, and knowing where the error is allows you to see the code that isn't functioning properly.
 

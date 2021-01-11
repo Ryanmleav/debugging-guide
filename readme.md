@@ -6,7 +6,6 @@ Welcome to the debugging helper! As you are new to coding and debugging, this re
 * How to read errors in your developer console
 * Steps to solving errors in your code
 * How to search Google for solutions to your errors
-* Common errors in code and how to resolve them
 
 ## How to find your developer console
 
@@ -73,3 +72,6 @@ Regardless of the error in your code, you can follow these steps to find relevan
 
 If the first resource you check doesn't contain a solution to your error, that's OK. Go back and check other resources from your search, and see if there are other resources that could help you. Understand that it can take time to become proficient at finding solutions to errors through Google, but it's an immensely valuable skill to obtain, so always give it a shot when you come across an error.
 
+## Conclusion
+
+Remember, getting started with debugging can be hard. You will probably find yourself spending more time initially on debugging than you anticipate, but just like any other practice, the more you work at it, the better you will get. Utilize all the resources at your disposal (lecture material, past lab exercises, Google, the Q), and give effort to learning how to debug!

@@ -55,7 +55,7 @@ Including both the error you are running into, as well as the language you are c
 
 ![google-errors-3](assets/google-errors-3.png)
 
-The first option contains a link to JQuery. While this may contain an answer that can help you, it could also contain a bunch of confusing syntax that you are unfamiliar with (as it is more focused on JQuery than plain JavaScript). Looking at the next two options, the links seem more promising. Make sure to read the description of the resource, not just the title, as the description can help you determine how relevant it is to your specific problem.
+The first option contains a link to a JQuery related error. While this may contain an answer that can help you, it also likely contains a bunch of confusing syntax that you are unfamiliar with (as it is more focused on JQuery than plain JavaScript). Looking at the next two options, the links seem more promising. Make sure to read the description of the resource, not just the title, as the description can help you determine how relevant it is to your specific problem.
 
 The second resource above (from MDN) contains a title with the specific error you have, and a description that seems promising to helping you solve your error. When you click into this resource, you can see the following:
 
